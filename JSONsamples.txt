@@ -1,0 +1,14 @@
+[212,"a",{"id":32,"abc":22},null]
+["{","]",{"abc":"error","abc":true,"abc":22},null]
+{"a":"b"}
+{"object":{"a":"b"}}
+{"password":123456,"a":1,"object":{"id":32,"Giang\"":22,"abc":true,"new object":{"inside":[12]}},"value":null}
+123
+[12,12E-5]
+[2,[12,13],343,[23],"a"]
+"[{:"
+{}
+[{"":[],"":{}},[],"[[]{\""]
+true
+false
+null
