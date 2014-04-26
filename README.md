@@ -1,8 +1,8 @@
 JSONParser
 ==========
 
-JSONParser is a Java library of useful methods to deal with JSON. For details 
-about JSON, see www.json.org.
+JSONParser is a Java library designed to deal with JSON and JSON values. For 
+more details about JSON, please see www.json.org.
 
 Use
 ---
