@@ -1,4 +1,4 @@
-package json;
+package edu.grinnell.nguyengi.json;
 
 import static org.junit.Assert.*;
 
@@ -6,9 +6,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Random;
 
-import json.JSON.ParsingException;
-
 import org.junit.Test;
+
+import edu.grinnell.nguyengi.json.JSON.ParsingException;
 
 /**
  * Some tests using randomized inputs

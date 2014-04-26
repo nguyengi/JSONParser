@@ -1,4 +1,4 @@
-package json;
+package edu.grinnell.nguyengi.json;
 
 // Citation: iterating with HashMap from: http://stackoverflow.com/questions/46898/how-do-i-iterate-over-each-entry-in-a-map
 
